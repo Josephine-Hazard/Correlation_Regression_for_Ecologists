@@ -1,4 +1,4 @@
-# Correlation and Regression in R for Ecologists
+### Correlation and Regression in R for Ecologists
 
 ----
 # Find the Tutorial [here](https://eddatascienceees.github.io/tutorial-Josephine-Hazard/)
