@@ -10,4 +10,4 @@
 # Find the Tutorial [here] ()
 
 
-*For any queries or question about this content of this repository, please contact Josephine Hazard: s1794602@ed.ac.uk*
+*For any queries or question about this content of this repository, please contact Josephine Hazard: josephine.hazard@gmail.com*
