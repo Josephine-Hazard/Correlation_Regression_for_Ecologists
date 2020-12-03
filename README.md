@@ -4,7 +4,7 @@
 
 - To understand when to use a Regression or Correlation.
 - To know how to perform Regression or Correlation in R and check for assumptions.
-- To Make a graph and include the key parameters for use in a scientific report. 
+- To make a graph and include the key parameters for use in a scientific report. 
 
 ----
 # Find the Tutorial [here] ()
