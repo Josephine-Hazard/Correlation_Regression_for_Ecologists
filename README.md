@@ -1,6 +1,6 @@
 ### Correlation and Regression in R for Ecologists
 
-*The aims of the tutorial are the following: 
+*The aims of the tutorial are the following:* 
 
 - To understand when to use a Regression or Correlation.
 - To know how to perform Regression or Correlation in R and check for assumptions.
@@ -10,4 +10,4 @@
 # Find the Tutorial [here] ()
 
 
-*For any queries or question about this content of this repository, please contact Josephine Hazard: s1794602@ed.ac.uk
+*For any queries or question about this content of this repository, please contact Josephine Hazard: s1794602@ed.ac.uk*
