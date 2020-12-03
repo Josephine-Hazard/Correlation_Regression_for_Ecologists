@@ -1,0 +1,77 @@
+---
+title: "Correlation and Regression Tutorial"
+author: "XXX"
+date: "4/12/20"
+output: html_document
+---
+```{r setup, include=FALSE}
+# Ignore this, it is for the oage setup
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This Starter Script has been made to accompany the tutorial 
+## Load Packages 
+```{r load the packages}
+
+```
+## Load 
+```{r load the shark data}
+
+```
+
+## Structure 
+```{r look at the shark data}
+
+```
+
+## Plot
+```{r plot the data}
+
+```
+
+## Assumptions 
+```{r checking assumptions}
+
+```
+
+## Cor_test
+```{r corr}
+
+```
+
+
+## Graph 
+```{r corr graph }
+
+```
+
+## Regression
+
+```{r shark model}
+
+```
+
+
+```{r Model summary}
+
+```
+
+## Plot the residuals 
+```{r plot the residuals}
+
+```
+
+## Compute the regression and plot the data with the line
+```{r shark regression}
+
+```
+
+## Add Equation 
+```{r shark regression + equation}
+
+```
+
+## Add Conf.Int
+```{r ggplot with confidence bands}
+
+```
