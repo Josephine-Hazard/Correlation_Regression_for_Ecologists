@@ -7,7 +7,7 @@
 - To make a graph and include the key parameters for use in a scientific report. 
 
 ----
-# Find the Tutorial [here] ()
+# Find the Tutorial [here](https://eddatascienceees.github.io/tutorial-Josephine-Hazard/)
 
 
 *For any queries or question about this content of this repository, please contact Josephine Hazard: josephine.hazard@gmail.com*
